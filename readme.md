@@ -1,1 +1,2 @@
-Collaborative Recomender System
+# Collaborative based Movie Recomender System
+This recommender uses a technique called collaborative filtering, specifically a model-based approach. The core idea of collaborative filtering is that if two users rate or like similar movies, they likely share similar tastes. Therefore, the movies that one user likes can be recommended to the other.
